@@ -99,8 +99,8 @@
         <mxCell id="23EKQrYT6rlDFBD_c6dq-102" edge="1" parent="1" source="23EKQrYT6rlDFBD_c6dq-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.436;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="23EKQrYT6rlDFBD_c6dq-101" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="802" y="880" />
-              <mxPoint x="200" y="880" />
+              <mxPoint x="802" y="840" />
+              <mxPoint x="200" y="840" />
             </Array>
             <mxPoint x="210" y="750" as="targetPoint" />
           </mxGeometry>
